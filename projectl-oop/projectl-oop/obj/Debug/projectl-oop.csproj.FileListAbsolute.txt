@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\projectl-oop\projectl-oop\obj\Debug\projectl-oop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projectl-oop\projectl-oop\obj\Debug\projectl-oop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projectl-oop\projectl-oop\bin\Debug\projectl-oop.exe.config
+C:\Users\user\Desktop\projectl-oop\projectl-oop\bin\Debug\projectl-oop.exe
+C:\Users\user\Desktop\projectl-oop\projectl-oop\bin\Debug\projectl-oop.pdb
+C:\Users\user\Desktop\projectl-oop\projectl-oop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projectl-oop\projectl-oop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projectl-oop\projectl-oop\obj\Debug\projectl.179E50D7.Up2Date
+C:\Users\user\Desktop\projectl-oop\projectl-oop\obj\Debug\projectl-oop.exe
+C:\Users\user\Desktop\projectl-oop\projectl-oop\obj\Debug\projectl-oop.pdb

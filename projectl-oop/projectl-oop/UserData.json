@@ -1,0 +1,275 @@
+{
+  "FirstName": "John",
+  "LastName": "Doe",
+  "CardDetails": {
+    "CardNumber": "1234-5678-9012-3456",
+    "ExpirationDate": "12/25",
+    "CVC": "123",
+    "Balance": 0.0
+  },
+  "PinCode": "1111",
+  "Balance": 1005.0,
+  "BalanceUSD": 1473.0769230769230769230769230,
+  "BalanceEUR": 172.41379310344827586206896552,
+  "TransactionHistory": [
+    {
+      "TransactionDate": "2024-01-03T10:15:30Z",
+      "TransactionType": "ChangePin",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-03T10:15:30Z",
+      "TransactionType": "DepositCheck",
+      "Amount": 100.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-02T15:45:00Z",
+      "TransactionType": "GetAmount",
+      "Amount": 500.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-01T08:20:45Z",
+      "TransactionType": "FillAmount",
+      "Amount": 600.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-01T08:20:45Z",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12T17:12:03Z",
+      "TransactionType": "Deposit",
+      "Amount": 500.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12T17:12:09Z",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 18:03:49",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 18:04:10",
+      "TransactionType": "Deposit",
+      "Amount": 800.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 18:04:49",
+      "TransactionType": "Change PIN",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 19:23:27",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 19:23:45",
+      "TransactionType": "Converted 500 to EUR",
+      "Amount": 172.41379310344827586206896552,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 19:24:46",
+      "TransactionType": "Deposit",
+      "Amount": 300.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 19:45:16",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 19:47:09",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 20:05:55",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 20:06:02",
+      "TransactionType": "Withdrawal",
+      "Amount": 400.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 20:06:15",
+      "TransactionType": "Converted 200 to USD",
+      "Amount": 76.923076923076923076923076923,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 20:07:54",
+      "TransactionType": "Change PIN",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 20:08:07",
+      "TransactionType": "Change PIN",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 21:18:27",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 400.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-12 21:19:00",
+      "TransactionType": "Change PIN",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-13 00:50:46",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-13 09:26:04",
+      "TransactionType": "Withdrawal",
+      "Amount": 200.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-01-13 09:50:28",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 10:35:55",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 10:36:49",
+      "TransactionType": "Converted 50 to USD",
+      "Amount": 19.230769230769230769230769231,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 10:37:28",
+      "TransactionType": "Deposit",
+      "Amount": 1000.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 10:37:31",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 10:38:17",
+      "TransactionType": "Change PIN",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 14:44:26",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 17:15:32",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 17:15:58",
+      "TransactionType": "Change PIN",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 17:37:22",
+      "TransactionType": "Withdrawal",
+      "Amount": 45.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 18:25:24",
+      "TransactionType": "Balance Inquiry",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 18:25:47",
+      "TransactionType": "Withdrawal",
+      "Amount": 100.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-06-29 18:26:24",
+      "TransactionType": "Change PIN",
+      "Amount": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    }
+  ]
+}
